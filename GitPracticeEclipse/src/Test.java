@@ -6,7 +6,6 @@ public class Test {
 System.out.println("first Test  Done to remote");
 // first test 
 
-System.out.println("Hi Sardar");
 
 
 ///
