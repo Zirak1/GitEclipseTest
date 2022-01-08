@@ -6,6 +6,9 @@ public class Test {
 System.out.println("first Test  Done to remote");
 // first test 
 ///
+int x = 10;
+int y = 5;
+
 	}
 
 }
